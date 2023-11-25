@@ -1,4 +1,4 @@
-pip install nltk streamlit
+!pip install nltk streamlit
 import streamlit as st
 import nltk
 from nltk import bigrams, trigrams
